@@ -1,0 +1,12 @@
+
+DEBUG:root:ip: 192.168.1.18:1883 published: maincore/teste:ice ice baby
+DEBUG:root:ip:192.168.1.18:1883;published: maincore/teste:ice ice baby
+DEBUG:root:ip:192.168.1.18:1883;published: maincore/teste:mensagem legal
+DEBUG:root:ip:192.168.1.18:1883;published: maincore/teste:mensagem legal
+DEBUG:root:ip:192.168.1.18:1883;published: maincore/teste:mensagem legal
+DEBUG:root:ip:192.168.1.18:1883;published: maincore/teste:mensagem legal
+DEBUG:root:ip:192.168.1.18:1883;published: maincore/teste:mensagem legal
+DEBUG:root:ip:192.168.1.18:1883;published: maincore/teste:mensagem legal
+DEBUG:root:ip:192.168.1.18:1883;published: maincore/teste:mensagem legal
+DEBUG:root:ip:192.168.1.18:1883;published: maincordasdase/teste:mensagem legal
+DEBUG:root:ip:192.168.1.18:1883;published: maincordasdase:mensagem legal
